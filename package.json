@@ -1,0 +1,23 @@
+{
+  "name": "auth-with-inquirerer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteelFace87/auth-with-inquirerer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteelFace87/auth-with-inquirerer/issues"
+  },
+  "homepage": "https://github.com/SteelFace87/auth-with-inquirerer#readme",
+  "devDependencies": {
+    "eslit": "^6.0.0"
+  }
+}
